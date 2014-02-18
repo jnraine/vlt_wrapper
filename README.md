@@ -5,13 +5,13 @@ A wrapper around the VLT executable, allowing easy use within a Ruby project.
 ## Installation
 
 ```
-gem install factory_girl
+gem install vlt_wrapper
 ```
 
 or add the following line to Gemfile:
 
 ```
-gem 'factory_girl'
+gem 'vlt_wrapper'
 ```
 
 and run `bundle` from your shell.
